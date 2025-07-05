@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945312325090",
+    "project_id": "medibiosavv2",
+    "storage_bucket": "medibiosavv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945312325090:android:fb0e519cbdd3df8e3eadbb",
+        "android_client_info": {
+          "package_name": "com.example.srasav_vf_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmg_l6XOkghdfsqjNxSiJYsayxoFRJzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
